@@ -6,9 +6,9 @@
   3. You're done!
 
 
-If you want to use some of the templates, make sure to edit them and test them first, before you deploy.
+### If you want to use some of the templates, make sure to edit them and test them first, before you deploy.
 --------------------------------
-### [+] Spoofing emails coming soon.
-### [+] Going to update a lot.
+#### [+] Spoofing emails coming soon.
+#### [+] Going to update a lot.
 
 ## Not a copy of SET lol
