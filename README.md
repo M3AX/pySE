@@ -6,7 +6,7 @@
   3. You're done!
 
 ## Android
-To download on andoid you will need some kind of terminal.
+To download on android you will need some kind of terminal.
 I use termux.
 git clone https://github.com/toxic-ig/pySE
 then you will need to install the modules manually
